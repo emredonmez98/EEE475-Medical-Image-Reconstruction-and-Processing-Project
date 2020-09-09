@@ -1,2 +1,2 @@
-# EEE475-Medical-Image-Reconstruction-and-Processing-Project
-This is the final project report for EEE475 Medical Image Reconstruction and Processing course. I have worked alongside Elif Ceren Fitoz in this project.
+# EEE475 Medical Image Reconstruction and Processing Project
+This is the final project report for EEE475 Medical Image Reconstruction and Processing course. I have worked alongside Elif Ceren Fitoz in this project. We have compared the performance in single coil reconstructions of state of the art medical image reconstruction methods POCS and Compressed Sensing against the performance of a CNN architecture.
